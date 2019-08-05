@@ -45,17 +45,17 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: arslanaybars
+  linkedin: satem
   # mastodon: your_username
   # medium: your_username
-  stackoverflow: 2541423/arslanaybars
+  stackoverflow: 5471315/satem
   # telegram: your_username
-  twitter: arslanaybars
+  twitter: satem02
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-  cv : arslanaybars
+  cv : satem02
 
 topics:
   - name: C#
@@ -82,10 +82,18 @@ topics:
     web_url: https://github.com/azure-devops
     image_url: https://avatars2.githubusercontent.com/u/23645104?s=200&v=4
 
+  - name: Docker DevOps
+    web_url: https://github.com/docker
+    image_url: https://d1q6f0aelx0por.cloudfront.net/product-logos/75765bad-5683-40e7-b4cb-cdd4f7cc9b9e-docker.png
+
   - name: Git
-    web_url: https://github.com/azure-devops
+    web_url: https://github.com/git/git
     image_url: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png
 
+  - name: Redis
+    web_url: https://github.com/redis
+    image_url: https://redislabs.com/wp-content/themes/redislabs/assets/images/redis-logo-stack.png
+  
   - name: Vue.js
     web_url: https://github.com/vuejs/vue
     image_url: https://vuejs.org/images/logo.png
