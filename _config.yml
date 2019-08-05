@@ -93,3 +93,5 @@ topics:
   # - name: Scrum
   #   web_url: https://www.scrum.org/
   #   image_url: https://dzone.com/storage/temp/8232723-scrum-blog.png
+
+theme: jekyll-theme-slate
