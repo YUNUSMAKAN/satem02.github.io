@@ -94,9 +94,9 @@ topics:
     web_url: https://github.com/redis
     image_url: https://redislabs.com/wp-content/themes/redislabs/assets/images/redis-logo-stack.png
   
-  - name: Vue.js
-    web_url: https://github.com/vuejs/vue
-    image_url: https://vuejs.org/images/logo.png
+  - name: Angular
+    web_url: https://github.com/angular
+    image_url: https://angular.io/assets/images/logos/angular/angular.png
 
   # - name: Scrum
   #   web_url: https://www.scrum.org/
