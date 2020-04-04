@@ -82,7 +82,7 @@ topics:
     web_url: https://github.com/azure-devops
     image_url: https://avatars2.githubusercontent.com/u/23645104?s=200&v=4
 
-  - name: Docker DevOps
+  - name: Docker
     web_url: https://github.com/docker
     image_url: https://d1q6f0aelx0por.cloudfront.net/product-logos/75765bad-5683-40e7-b4cb-cdd4f7cc9b9e-docker.png
 
@@ -98,8 +98,12 @@ topics:
     web_url: https://github.com/angular
     image_url: https://angular.io/assets/images/logos/angular/angular.png
 
-  # - name: Scrum
-  #   web_url: https://www.scrum.org/
-  #   image_url: https://dzone.com/storage/temp/8232723-scrum-blog.png
+  - name: Scrum
+    web_url: https://www.scrum.org/
+    image_url: https://dzone.com/storage/temp/8232723-scrum-blog.png
+    
+  - name: PostgreSQL
+    web_url: https://github.com/postgres/postgres
+    image_url: https://avatars0.githubusercontent.com/u/177543?s=200&v=4
 
 theme: jekyll-theme-slate
